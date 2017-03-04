@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><test_report>
+<info>
+<test_info>
+<test_status>OK</test_status>
+<time_zone>Greenwich Mean Time</time_zone>
+<run_started>Sat, 4 Mar 2017 13:18:36</run_started>
+<total_time>5.0</total_time>
+<project>C:\Users\Lakshmi\workspace\project2</project>
+<user>Lakshmi</user>
+<machine_name>LAPTOP-4R2FEMM7</machine_name>
+</test_info>
+<device_info>
+<device_name>Moto G (4)</device_name>
+<manufacture>motorola</manufacture>
+<model>Moto G (4)</model>
+<os>Android</os>
+<serial_number>ZY2239KB5J</serial_number>
+<version>7.0</version>
+<screen_size>1080x1920</screen_size>
+</device_info>
+</info>
+<reports>
+<report>
+<text>C:\Users\Lakshmi\seetest-reports\reports\test14</text>
+<line>Start test AutoTest</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>0.PNG</imageFile>
+<text>Device Information&lt;br&gt;
+Name: Moto G (4)&lt;br&gt;
+S/N: ZY2239KB5J&lt;br&gt;
+OS: Android&lt;br&gt;
+Manufacture: motorola&lt;br&gt;
+Model: Moto G (4)&lt;br&gt;
+Version: 7.0&lt;br&gt;
+Screen size: 1080x1920&lt;br&gt;
+Connected to: 127.0.0.1&lt;br&gt;
+</text>
+<line>Set device to: adb:target</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>1.PNG</imageFile>
+<text>Found: true</text>
+<line>Check if 'xpath=//*[@text=concat('Did you mean ', '&amp;quot;', 'fury rabbit', '&amp;quot;', '?') and @onScreen='true' and @hidden='false']' is found in zone 'NATIVE' index 0</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>2.PNG</imageFile>
+<secondImageFile>3.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text=concat('Did you mean ', '&amp;quot;', 'fury rabbit', '&amp;quot;', '?') and @onScreen='true' and @hidden='false']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>4.PNG</imageFile>
+<line>Sleep for: 1000 milliseconds</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>5.PNG</imageFile>
+<text>Found: true</text>
+<line>Check if 'xpath=//*[@text='Brutal: Paws of Fury']' is found in zone 'NATIVE' index 0</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>6.PNG</imageFile>
+<line>End Test</line>
+<status>true</status>
+</report>
+</reports>
+</test_report>

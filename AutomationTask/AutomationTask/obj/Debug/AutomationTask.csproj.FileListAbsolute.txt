@@ -1,0 +1,10 @@
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\AutomationTask.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\AutomationTask.pdb
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\CookComputing.XmlRpcV2.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\imageClient.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\WebDriver.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\HtmlAgilityPack.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\bin\Debug\imageClient.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\obj\Debug\AutomationTask.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\AutomationTask\AutomationTask\obj\Debug\AutomationTask.pdb

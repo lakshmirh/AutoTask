@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><test_report>
+<info>
+<test_info>
+<test_status>OK</test_status>
+<time_zone>Greenwich Mean Time</time_zone>
+<run_started>Sat, 4 Mar 2017 13:19:44</run_started>
+<total_time>7.0</total_time>
+<project>C:\Users\Lakshmi\workspace\project2</project>
+<user>Lakshmi</user>
+<machine_name>LAPTOP-4R2FEMM7</machine_name>
+</test_info>
+<device_info>
+<device_name>Moto G (4)</device_name>
+<manufacture>motorola</manufacture>
+<model>Moto G (4)</model>
+<os>Android</os>
+<serial_number>ZY2239KB5J</serial_number>
+<version>7.0</version>
+<screen_size>1080x1920</screen_size>
+</device_info>
+</info>
+<reports>
+<report>
+<text>C:\Users\Lakshmi\seetest-reports\reports\test18</text>
+<line>Start test AutoTest</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>0.PNG</imageFile>
+<text>Device Information&lt;br&gt;
+Name: Moto G (4)&lt;br&gt;
+S/N: ZY2239KB5J&lt;br&gt;
+OS: Android&lt;br&gt;
+Manufacture: motorola&lt;br&gt;
+Model: Moto G (4)&lt;br&gt;
+Version: 7.0&lt;br&gt;
+Screen size: 1080x1920&lt;br&gt;
+Connected to: 127.0.0.1&lt;br&gt;
+</text>
+<line>Set device to: adb:target</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>1.PNG</imageFile>
+<secondImageFile>2.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='icon' and @class='android.support.v7.widget.AppCompatImageView' and @knownSuperClass='android.widget.ImageView']' in zone NATIVE, index: 1, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>3.PNG</imageFile>
+<secondImageFile>4.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='item_title']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>5.PNG</imageFile>
+<text>Found: false</text>
+<line>Check if 'xpath=//*[@text='Brutal: Paws of Fury' and @onScreen='true']' is found in zone 'NATIVE' index 0</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>6.PNG</imageFile>
+<line>End Test</line>
+<status>true</status>
+</report>
+</reports>
+</test_report>
